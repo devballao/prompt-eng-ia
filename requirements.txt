@@ -1,0 +1,5 @@
+ollama
+notebook
+ipykernel
+pickleshare
+# anthropic>=0.21.3  # descomente se quiser usar a API da Anthropic em vez do Ollama
