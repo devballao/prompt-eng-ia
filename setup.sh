@@ -20,8 +20,8 @@ ollama serve &>/tmp/ollama.log &
 sleep 3
 
 echo ""
-echo "==> Baixando modelo phi3:mini (~2.2GB, só na primeira vez)..."
-ollama pull phi3:mini
+echo "==> Baixando modelo llama3.2:1b (~1.3GB, só na primeira vez)..."
+ollama pull llama3.2:1b
 
 echo ""
 echo "==> Ambiente pronto!"
